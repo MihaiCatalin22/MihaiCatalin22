@@ -23,4 +23,5 @@ My aim is to rapidly grow my expertise in full-stack development, create robust 
 
 ## 📫 How to reach me
 LinkedIn: [Link](https://www.linkedin.com/in/catalin-mihai-popoiu-8999331a1/)
+
 Email: catamihaip18@gmail.com

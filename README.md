@@ -17,9 +17,10 @@ Software Principles: SOLID, encapsulation, agile methodologies (Scrum)
 ## 🌱 I’m currently learning
 Game Development using Unity and other game engines
 
-##🚀 Goals and Objectives
+
+## 🚀 Goals and Objectives
 My aim is to rapidly grow my expertise in full-stack development, create robust and efficient applications, and continually improve my understanding of modern software practices. I’m also passionate about learning through both practical projects and research, always striving to bridge the gap between concept and application.
 
-##📫 How to reach me
+## 📫 How to reach me
 LinkedIn: [Link](https://www.linkedin.com/in/catalin-mihai-popoiu-8999331a1/)
-Email: ## catamihaip18@gmail.com
+Email: catamihaip18@gmail.com

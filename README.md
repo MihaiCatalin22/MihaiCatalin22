@@ -1,18 +1,18 @@
 ## Hi there 👋 I'm Cătălin (call me Cătă)
 
-👨‍💻 2nd Year ICT Student @ Fontys University of Applied Sciences
+👨‍💻 3rd Year ICT Student @ Fontys University of Applied Sciences
 
 🌐 Aspiring Software Engineer focused on growth and continuous learning
 
 🔍 Currently exploring: Game Development using Unity
 
 ## About Me
-I’m a dedicated second-year ICT student with a focus on building creative and sustainable solutions through technology. With an emphasis on full-stack development, my journey so far has included hands-on projects that integrate both front-end and back-end technologies.
+I’m a dedicated third-year ICT student with a focus on building creative and sustainable solutions through technology. With an emphasis on full-stack development, my journey so far has included hands-on projects that integrate both front-end and back-end technologies. I have also finished my Game Design & Technologies specialization at Fontys ICT.
 
 ## 🛠️ Technical Skills
-Languages: JavaScript, Java, HTML, CSS, C#, Python
+Languages: JavaScript, Java, HTML, CSS, C#, Python, Kotlin, Swift
 
-Frameworks/Libraries: React, Java Spring Boot, .NET Framework
+Frameworks/Libraries: React, Java Spring Boot, .NET Framework, Unity
 
 Database Management: MySQL with JPA/Hibernate ORM
 
@@ -21,7 +21,7 @@ API Development: RESTful services using Spring Boot
 Software Principles: SOLID, encapsulation, agile methodologies (Scrum)
 
 ## 🌱 I’m currently learning
-Game Development using Unity and other game engines
+Mobile Development at my internship at VTEC Lasers & Sensors.
 
 
 ## 🚀 Goals and Objectives

@@ -7,7 +7,7 @@
 🔍 Currently exploring: Complex Software Systems
 
 ## About Me
-I’m a dedicated third-year ICT student with a focus on building creative and sustainable solutions through technology. With an emphasis on full-stack development, my journey so far has included hands-on projects that integrate both front-end and back-end technologies. I have also finished my Game Design & Technologies specialization at Fontys ICT.
+I’m a dedicated fourth-year ICT student with a focus on building creative and sustainable solutions through technology. With an emphasis on full-stack development, my journey so far has included hands-on projects that integrate both front-end and back-end technologies. I have also finished my Game Design & Technologies specialization at Fontys ICT.
 
 ## 🛠️ Technical Skills
 Languages: JavaScript, Java, HTML, CSS, C#, Python, Kotlin, Swift
@@ -21,7 +21,7 @@ API Development: RESTful services using Spring Boot
 Software Principles: SOLID, encapsulation, agile methodologies (Scrum)
 
 ## 🌱 I’m currently learning
-Complex Software Systems during my sixth semester at Fontys ICT.
+AI/ML models and integration during my seventh semester at Fontys ICT.
 
 
 ## 🚀 Goals and Objectives

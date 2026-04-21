@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Cătălin (call me Cătă)
 
-👨‍💻 3rd Year ICT Student @ Fontys University of Applied Sciences
+👨‍💻 4th Year ICT Student @ Fontys University of Applied Sciences
 
 🌐 Aspiring Software Engineer focused on growth and continuous learning
 
